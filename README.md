@@ -8,7 +8,7 @@ A simple web-based weather app that provides live weather details by searching w
 - **Search by City Name**: Fetch live weather details for any place.
 - **Weather Details**: Shows temperature, humidity, wind speed, and weather description.
 - **Responsive UI**: Clean and stunning design with HTML, CSS, and JavaScript.
-- **Dynamic Updates**: Weather details update instantly on user
+- **Dynamic Updates**: Weather details update instantly on user interaction.
 
 ## Tools & Technologies
 - HTML, CSS, JavaScript
@@ -37,28 +37,26 @@ A simple web-based weather app that provides live weather details by searching w
    ```
 
 3️⃣ **Run the Project***:
-   - Open index.html in your browser.
-   - Enter a city name and click "Search" to fetch the weather details.
-
-##  Project Structure
+  - Open index.html in your browser.
+  - Enter a city name and click "Search" to obtain the weather details.
+##   Project Structure
 
 ```graphql
 weather-detector/
 │
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet for UI
-├── script.js           # JavaScript for API requests & UI updates
-├── README.md           # Project documentation
-└── assets/             # (Optional) Images, icons, etc.
+├── index.html # Main HTML file
+├── style.css # Stylesheet for UI
+├── script.js # JavaScript for API requests & UI updates
+├── README.md # Project documentation
+└── assets/ # (Optional) Images, icons, etc.
 ```
 
 ## Dependencies
-- Fetch API (built into JavaScript) for making API requests.
-- OpenWeatherMap API for weather Dependencies
-data.
+- Fetch API (built-in in JavaScript) for making API calls.
+- OpenWeatherMap API for weather details.
 
 ## Contributing
-Contributions are welcome! Feel free to fork this repository, submit a pull request, or open an issue.
+Contributions are welcome! Feel free to fork this repository, open a pull request, or open an issue.
 
 ## License
 This project is licensed under the MIT License.

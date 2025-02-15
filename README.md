@@ -1,5 +1,5 @@
 Here’s a sample README for a **Weather Detector** project that fetches weather information based on a place name entered by the user:
-# Weather Detector 🌤
+# Weather Detector 
 
 A simple application that allows users to search for current weather conditions by entering the name of a place. The application connects to a weather API, retrieves real-time weather data, and displays it in an easy-to-understand format.
 
